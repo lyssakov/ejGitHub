@@ -7,6 +7,10 @@
 ![NLECHOPPA](/img/choppa.jpg) 
 ![HASBULLA](/img/hasbulla.jpg)
 
+[Instalacion](./instalacion.md)
+
+[Informacion](./informacion.md)
+
 [YouTube](https://www.youtube.com/)
 
 [Google](https://www.google.com/)
